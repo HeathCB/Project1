@@ -18,7 +18,8 @@ public class Application {
 
 		System.out.println(moneyInWallet - itemPrice);
 		System.out.println(age / numberOfFriends);
-		System.out.println(fullName);
+		System.out.println("My full name is " + fullName);
+		
 		
 	}
 
